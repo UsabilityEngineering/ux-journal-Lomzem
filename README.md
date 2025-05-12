@@ -11,3 +11,5 @@ I'm Lawjay Lee, a third-year computer science major. I have been playing around 
 ## UX Journal
 
 [The Slippery Song Sliders](journal1/)
+
+[The Slippery Song Sliders V2](journal2/)
