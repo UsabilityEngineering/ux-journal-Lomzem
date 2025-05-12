@@ -25,7 +25,10 @@ and sliding motion.
 At the time, I was listening to music on my phone, and I felt that the
 volume was too quiet. As such, I opened up my control center and began
 the tap-and-drag motion I have become accustomed to on the volume
-slider. I tapped, held, swiped up, and then released. However, I
+slider. I placed my finger on the volume slider and, while maintaining
+contact with the screen, slid my finger up and then released it from
+the screen. I expected this series of actions to result in the volume
+increasing proportionally to how much I slid my finger up. However, I
 immediately realized that the volume increased significantly more than
 I expected. Confused, I investigated by playing with the slider
 further and discovered that Apple recently changed how their sliders
