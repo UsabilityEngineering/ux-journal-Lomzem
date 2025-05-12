@@ -6,7 +6,7 @@ I'm Lawjay Lee, a third-year computer science major. I have been playing around 
 
 ## UX Team Project
 
-Coming soon.
+[Our team project](https://github.com/chicostate/djsongmatch-ux)
 
 ## UX Journal
 
