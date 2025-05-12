@@ -10,4 +10,4 @@ Coming soon.
 
 ## UX Journal
 
-[The Slippery Song Sliders](journal/)
+[The Slippery Song Sliders](journal1/)
